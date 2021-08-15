@@ -2,8 +2,6 @@ package com.company.daysofcode.arrays.LeetCode;
 
 // https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
-import java.util.Scanner;
-
 public class FindEvenDigitsInNums {
     public static void main(String[] args) {
         int[] nums = {12,345,2,6,7896};
@@ -28,6 +26,14 @@ public class FindEvenDigitsInNums {
             return true;
         }
         return false;
+    }
+
+    // shortcut to count digits
+    static int digit(int num){
+        if(num < 0){
+            num = num * -1;
+        }
+        return (int)(Math.log10(num)) + 1;
     }
 
    // function to count number of digits in a given number
