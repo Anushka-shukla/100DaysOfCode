@@ -2,7 +2,7 @@ package com.company.daysofcode.arrays;
 
 public class BinarySearch {
     public static void main(String[] args){
-        int[] arr = {2, 4, 5, 8, 10, 34, 67};
+        int[] arr = {-45, -16, 2, 4, 5, 8, 10, 34, 67};
         int ans = binarySearch(arr, 10);
         System.out.println(ans); // 4th index
 
