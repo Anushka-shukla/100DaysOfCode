@@ -4,11 +4,11 @@ public class FloorOfANumber {
     public static void main(String[] args) {
         int[] arr  = {2, 3, 5, 9, 14, 16, 18} ;
         int target = 8;
-        System.out.println(CeilingOfNum(arr, 8));
+        System.out.println(FloorOfNum(arr, 8));
     }
 
-
-    static int CeilingOfNum(int[] arr, int target) {
+    // return the index: greatest no >= target
+    static int FloorOfNum(int[] arr, int target) {
         int start = arr[0];
         int end = arr.length - 1;
 

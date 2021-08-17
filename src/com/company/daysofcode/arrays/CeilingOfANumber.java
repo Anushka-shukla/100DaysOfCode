@@ -10,6 +10,12 @@ public class CeilingOfANumber {
    // we will not return -1 if number not found, but we will return the next greater than (or equal to) num that exist
 
     static int CeilingOfNum(int[] arr, int target) {
+
+        // what if target is greater than the greatest number in the array
+        if(target > arr[arr.length] -1){
+            return -1;
+        }
+
         int start = arr[0];
         int end = arr.length - 1;
 
