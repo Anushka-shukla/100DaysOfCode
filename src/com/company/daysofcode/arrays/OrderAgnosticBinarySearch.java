@@ -1,4 +1,4 @@
-package com.company.daysofcode.arrays.LeetCode;
+package com.company.daysofcode.arrays;
 
 public class OrderAgnosticBinarySearch {
     public static void main(String[] args) {
