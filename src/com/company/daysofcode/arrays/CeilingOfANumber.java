@@ -16,7 +16,7 @@ public class CeilingOfANumber {
             return -1;
         }
 
-        int start = arr[0];
+        int start = 0;
         int end = arr.length - 1;
 
         while(start <= end){
