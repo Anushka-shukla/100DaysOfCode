@@ -14,7 +14,6 @@ public class ElePosInTheInfiniteSortedArr {
     static int searchInRange(int[] arr, int target){
         // find the range
         // first start with a box of size 2
-        int size = 2;
         int start = 0;
         int end = 1;
 

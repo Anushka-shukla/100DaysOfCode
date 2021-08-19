@@ -6,7 +6,7 @@ public class FindFirstAndLastPositionOfEleInArr {
     public static void main(String[] args) {
 
         int[] nums = {5,7,7,8,8,10};
-        int[] ans = new int[2]; // take an aray of size 2
+        int[] ans ; // take an aray of size 2
         ans = searchRange(nums, 7);
         System.out.println(ans[0]);
         System.out.println(ans[1]);

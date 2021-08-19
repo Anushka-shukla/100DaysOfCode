@@ -35,7 +35,7 @@ public class FindEvenDigitsInNums {
         }
         return (int)(Math.log10(num)) + 1;
     }
-
+   // or this
    // function to count number of digits in a given number
     static int NumOfDigits(int num){
         if(num < 0){
