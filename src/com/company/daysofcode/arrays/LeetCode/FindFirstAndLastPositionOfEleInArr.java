@@ -11,8 +11,6 @@ public class FindFirstAndLastPositionOfEleInArr {
         System.out.println(ans[0]);
         System.out.println(ans[1]);
 
-        // why it is returning garbage value
-
     }
 
     // return the position of a target ele :- index of first occurrence and the last,
