@@ -1,6 +1,8 @@
 package com.company.daysofcode.arrays.LeetCode;
 
 // https://leetcode.com/problems/peak-index-in-a-mountain-array/
+// https://leetcode.com/problems/find-peak-element/submissions/
+
 
 public class PeekIndexInAMountainArr {
     // we can apply binary search because first part is in ascending order and second in desc
