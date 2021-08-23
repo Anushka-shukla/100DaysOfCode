@@ -64,6 +64,10 @@ public class SearchInRotatedSortedArr {
         while (start <= end){
              int mid = start + (end - start) / 2;
 
+            // when our mid is greater than mid+1 ele the pivot will be mid
+            // let's assume our end ele is our mid ele, and this will check for mid+1, so it will give us array
+            // index out of bound, so we will make sure that our end always stays greater than mid while this
+            // check runs.
         if (mid < end && arr[mid] > arr[mid + 1]) {
             return mid; // mid will be out pivot i.e the largest of all the ele
         }
