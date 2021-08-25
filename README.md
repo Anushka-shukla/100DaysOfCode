@@ -9,7 +9,8 @@ This repository has all the questions I'm practising for JAVA & DSA. I'm keeping
 - [Arrays](https://github.com/Anushka-shukla/100DaysOfCode/tree/main/src/com/company/daysofcode/arrays) 
      - [Linear Search](https://github.com/Anushka-shukla/100DaysOfCode/blob/main/src/com/company/daysofcode/arrays/LinearSearch.java) 
      - [Binary Search](https://github.com/Anushka-shukla/100DaysOfCode/blob/main/src/com/company/daysofcode/arrays/BinarySearch.java) 
-     - [Ceiling of a num](https://github.com/Anushka-shukla/100DaysOfCode/blob/main/src/com/company/daysofcode/arrays/CeilingOfANumber.java)
-     - [Floor of a num](https://github.com/Anushka-shukla/100DaysOfCode/blob/main/src/com/company/daysofcode/arrays/FloorOfANumber.java) 
      - [Leetcode](https://github.com/Anushka-shukla/100DaysOfCode/tree/main/src/com/company/daysofcode/arrays/LeetCode) 
+     - [Bubble Sort](https://github.com/Anushka-shukla/100DaysOfCode/blob/main/src/com/company/daysofcode/arrays/bubbleSortAlgoQues/BubbleSort.java)
+     - [Selection Sort](https://github.com/Anushka-shukla/100DaysOfCode/blob/main/src/com/company/daysofcode/arrays/selectionSort/SelectionSort.java)
+     - [Insertion Sort]()
 
