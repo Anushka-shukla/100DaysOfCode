@@ -7,6 +7,7 @@ public class SplitArrLargestSum {
         int[] nums = {7,2,5,10,8};
         int m = 2;
         int res = splitArray(nums, m);
+
         System.out.println(res);
     }
     static int splitArray(int[] nums, int m){
