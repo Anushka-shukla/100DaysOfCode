@@ -1,4 +1,4 @@
-package com.company.daysofcode.arrays.LeetCode;
+package com.company.daysofcode.arrays.SearchingLeetCode;
 // https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 public class SearchInRotatedSortedArr {

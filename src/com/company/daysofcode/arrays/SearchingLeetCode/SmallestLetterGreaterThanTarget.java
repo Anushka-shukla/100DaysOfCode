@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-smallest-letter-greater-than-target/
-package com.company.daysofcode.arrays.LeetCode;
+package com.company.daysofcode.arrays.SearchingLeetCode;
 
 public class SmallestLetterGreaterThanTarget {
     public static void main(String[] args) {

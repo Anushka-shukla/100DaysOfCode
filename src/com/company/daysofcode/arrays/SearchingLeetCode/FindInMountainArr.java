@@ -1,4 +1,4 @@
-package com.company.daysofcode.arrays.LeetCode;
+package com.company.daysofcode.arrays.SearchingLeetCode;
 
 // https://leetcode.com/problems/find-in-mountain-array/
 

@@ -1,4 +1,4 @@
-package com.company.daysofcode.arrays.LeetCode;
+package com.company.daysofcode.arrays.SearchingLeetCode;
 // https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
 public class ElePosInTheInfiniteSortedArr {
     public static void main(String[] args) {

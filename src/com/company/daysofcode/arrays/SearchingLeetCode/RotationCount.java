@@ -1,4 +1,4 @@
-package com.company.daysofcode.arrays.LeetCode;
+package com.company.daysofcode.arrays.SearchingLeetCode;
 
 // https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/
 

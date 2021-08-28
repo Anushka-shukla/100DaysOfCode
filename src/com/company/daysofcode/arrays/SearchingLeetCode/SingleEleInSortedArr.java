@@ -1,4 +1,4 @@
-package com.company.daysofcode.arrays.LeetCode;
+package com.company.daysofcode.arrays.SearchingLeetCode;
 
 public class SingleEleInSortedArr {
     public static void main(String[] args) {

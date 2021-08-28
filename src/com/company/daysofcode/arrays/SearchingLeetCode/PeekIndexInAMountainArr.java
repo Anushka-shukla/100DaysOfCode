@@ -1,4 +1,4 @@
-package com.company.daysofcode.arrays.LeetCode;
+package com.company.daysofcode.arrays.SearchingLeetCode;
 
 // https://leetcode.com/problems/peak-index-in-a-mountain-array/
 // https://leetcode.com/problems/find-peak-element/submissions/
